@@ -70,5 +70,5 @@ Q: what is keyFile</br>
 A: keyFile is system to bind script on computer make it cannot share</br>
 </br>
 Q: it generate keyFile for me but not work</br>
-A: you need send that keyFile to me for make it active</br>
-this script so much effect in PVP so it not public lol~</br>
+A: you need send that keyFile to me for make it active (only who has allow from me)</br>
+this script so much effect in PVP and YES, it not public lol~</br>
