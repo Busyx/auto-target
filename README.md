@@ -7,6 +7,7 @@ Auto-Target and finish your skill in PVP and PVE</br>
 ```
 - at on             #enable
 - at off            #disable
+- at reload         #reload config file
 ```
 # Config.json
 ```
