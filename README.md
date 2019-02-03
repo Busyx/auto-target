@@ -2,6 +2,12 @@
 New update make this project in test to stable version. Some function will remake and config too.</br>
 If your script not work and see any error from this mod like "cannot read * property"</br>
 mean it not in your config. Please remove your config and enter game again to re-generate new config.</br>
+**In rework now**
+- removed "enemy-healer" tag change to "enemy-class" require "lockClass" in skill info
+- removed "lockBuff" and move to new tag "enemy-buff" require "inBuff" in skill info
+- rework "member-clean" in raid
+- new "type" in skill info "lockon", "projectile"
+- new tag "enemy-notbuff" require "notBuff" in skill info
 
 # Auto-Target
 Auto-Target and finish your skill in PVP and PVE</br>
