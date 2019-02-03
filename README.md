@@ -1,9 +1,8 @@
 # UPDATE SOON
 This new update make this project in test to stable version</br>
-some function will got the remake and config too</br>
-if you see any error from your config like "cannot read * property"</br>
-mean it not in your config please remove your config and enter game again</br>
-to re-generate new config and make it work</br>
+some function will remake and config too</br>
+if your script not work and see any error from this mod like "cannot read * property"</br>
+mean it not in your config please remove your config and enter game again to re-generate new config</br>
 
 # Auto-Target
 Auto-Target and finish your skill in PVP and PVE</br>
