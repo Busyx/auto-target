@@ -1,5 +1,5 @@
 # UPDATE SOON
-New update make this project in test to stable version. Some function will remake and config too.</br>
+New update make this project in test to stable version. Rework some function and config.</br>
 If your script not work and see any error from this mod like "cannot read * property"</br>
 mean it not in your config. Please remove your config and enter game again to re-generate new config.</br>
 **In rework now**
