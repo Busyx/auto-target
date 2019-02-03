@@ -1,3 +1,10 @@
+# UPDATE SOON
+This new update make this project in test to stable version</br>
+some function will got the remake and config too</br>
+if you see any error from your config like "cannot read * property"</br>
+mean it not in your config please remove your config and enter game again</br>
+to re-generate new config and make it work</br>
+
 # Auto-Target
 Auto-Target and finish your skill in PVP and PVE</br>
 **This module require keyFile for enable**</br></br>
