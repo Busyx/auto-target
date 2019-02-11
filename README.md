@@ -1,5 +1,6 @@
 # Notice
-This project moves to: [auto-target-gen2](https://github.com/Fukki/auto-target-gen2)
+This project moved to: [auto-target-gen2](https://github.com/Fukki/auto-target-gen2)
+btw this project still update while gen2 not release
 
 # Auto-Target
 Auto-Target and finish your skill in PVP and PVE</br>
