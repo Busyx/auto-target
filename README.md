@@ -1,13 +1,5 @@
-# UPDATE SOON
-New update make this project in test to stable version. Rework some function and config.</br>
-If your script not work and see any error from this mod like "cannot read * property"</br>
-mean it not in your config. Please remove your config and enter game again to re-generate new config.</br>
-**In rework now**
-- removed "enemy-healer" tag change to "enemy-class" require "lockClass" in skill info
-- removed "lockBuff" and move to new tag "enemy-buff" require "inBuff" in skill info
-- rework "member-clean" in raid
-- new tag "enemy-notbuff" require "notBuff" in skill info
-- new "type" in skill info "lockon", "projectile" this feature just plan to future*
+# Notice
+This project moves to: [auto-target-gen2](https://github.com/Fukki/auto-target-gen2)
 
 # Auto-Target
 Auto-Target and finish your skill in PVP and PVE</br>
